@@ -27,6 +27,7 @@ The sections of the program and theirs outputs are visualised in notebook.ipynb
 
 
 
+![iris](https://github.com/user-attachments/assets/e73a45db-0875-42d2-ada3-281b4aaae864)
 
 
 
