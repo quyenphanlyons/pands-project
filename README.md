@@ -3,6 +3,7 @@ written by Quyen Phan
 
 ## About Iris dataset
 
+![iris](https://github.com/user-attachments/assets/e73a45db-0875-42d2-ada3-281b4aaae864)
 
 This dataset is one of the earliest datasets widely used in statistics and machine learning. 
 
