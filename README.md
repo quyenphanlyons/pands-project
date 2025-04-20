@@ -1,21 +1,35 @@
-# Iris dataset
+# Iris data set
 written by Quyen Phan
 
-## About Iris dataset
+## Description of Iris data set
 
 
-This dataset is one of the earliest datasets widely used in statistics and machine learning. 
+Data set iris.data can be found in iris folder.
 
-This is a small dataset that contains only 150 individuals and 5 features. This dataset doesn't have any missing value. 
-Each individual in this datset is an iris flower.
+This data set is one of the earliest datasets widely used in statistics and machine learning. 
 
-The 5 features are:
-    1. sepal length (in cm) represent the length of an iris flower's sepal
-    2. sepal width (in cm) represent the width of an iris flower's sepal
-    3. petal length (in cm) represent the length of an iris flower's petal
-    4. petal width (in cm) represent the width of an iris flower's petal
-    5. class represent the spieces of an iris flower which can takes one of these 3 following values: Iris Setosa, Iris Versicolour or Iris Virginica
+This is a small data set that contains only 150 observations. Each observation in this data set is an iris flower. The data set consists of 50 individuals from each of three following species: Iris Setosa, Iris Versicolour and Iris Virginica. The data set has 5 columns which are 4 features (continuous variables) and 1 class label (nominal variable).
 
-The first 4 features are continuous variables. The last one (class) is nominal variable.
+The 4 features are:
+1. sepal length (in cm) represents the length of an iris flower's sepal.
+2. sepal width (in cm) represents the width of an iris flower's sepal
+3. petal length (in cm) represents the length of an iris flower's petal
+4. petal width (in cm) represents the width of an iris flower's petal
+
+## Purpose
+The aim of this project 
+
+## Analyse Iris data set
+
+Python analysis program is in [analysis.py](). \
+
+The sections of the program and theirs outputs are visualised in notebook.ipynb
+
+
+
+
+
+
+
 
 
