@@ -4,7 +4,7 @@ written by Quyen Phan
 ## Description of Iris data set
 
 
-Data set iris.data can be found in iris folder.
+Data set [iris.data](https://github.com/quyenphanlyons/pands-project/blob/main/iris/iris.data) can be found in [iris folder](https://github.com/quyenphanlyons/pands-project/tree/main/iris).
 
 This data set is one of the earliest datasets widely used in statistics and machine learning. 
 
@@ -21,9 +21,9 @@ The aim of this project
 
 ## Analyse Iris data set
 
-Python analysis program is in [analysis.py](https://github.com/quyenphanlyons/pands-project/blob/main/analysis.py). \
+Python analysis program is in [analysis.py](https://github.com/quyenphanlyons/pands-project/blob/main/analysis.py).
 
-The sections of the program and theirs outputs are visualised in [notebook.ipynb](https://github.com/quyenphanlyons/pands-project/blob/main/notebook.ipynb)
+The sections of the program and theirs outputs are visualised in [notebook.ipynb](https://github.com/quyenphanlyons/pands-project/blob/main/notebook.ipynb).
 
 
 

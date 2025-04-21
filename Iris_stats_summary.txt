@@ -1,0 +1,17 @@
+Iris data set - Statistical summary
+
+Variable: sepal_length
+Type: float64
+Missing values: 0
+Variable: sepal_width
+Type: float64
+Missing values: 0
+Variable: petal_length
+Type: float64
+Missing values: 0
+Variable: petal_width
+Type: float64
+Missing values: 0
+Variable: class
+Type: object
+Missing values: 0
