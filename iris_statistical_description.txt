@@ -1,8 +1,5 @@
-Iris data set - Statistical summary
-==================================================
-
 Statistical Description of Quantitative Variables:
---------------------------------------------------
+============================================================
        sepal_length  sepal_width  petal_length  petal_width
 count        150.00       150.00        150.00       150.00
 mean           5.84         3.05          3.76         1.20
@@ -14,7 +11,7 @@ min            4.30         2.00          1.00         0.10
 max            7.90         4.40          6.90         2.50
 
 Class Distribution:
---------------------------------------------------
+============================================================
 class
 Iris-setosa        50
 Iris-versicolor    50
