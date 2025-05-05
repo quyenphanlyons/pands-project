@@ -17,9 +17,19 @@ The 4 features are:
 4. petal width (in cm) represents the width of an iris flower's petal
 
 ## Purpose
-The aime of this project is to:
-- Explore the data set by using statistics methods
-- Find the relationship between variables
+The aime of this project is to explore the data set by using statistics methods such as:
+
+- Descriptive statistics of features in the data set
+- Find the relationship between variables by using the correlation matrix
+- Visualise data by using
+    - Histograms
+    - Pair Plots (Scatter Matrix)
+    - Boxplots
+
+## Program language
+The program language used for this project is Python.
+
+The libraries used in this project are `pandas`, `numpy`, `matplotlib` and `seaborn`.
 
 ## Analyse program for Iris data set
 
@@ -29,5 +39,5 @@ The sections of the program and theirs outputs are visualised in [notebook.ipynb
 
 Descriptive statistics of Iris data set can be found in [Iris_stats_summary.txt](https://github.com/quyenphanlyons/pands-project/blob/main/Iris_stats_summary.txt)
 
-
+## Conclusion
 
