@@ -1,6 +1,8 @@
 # Iris dataset
 Written by Quyen Phan
 
+![](https://github.com/quyenphanlyons/pands-project/blob/main/iris.png)
+
 ## Description of Iris dataset
 
 
