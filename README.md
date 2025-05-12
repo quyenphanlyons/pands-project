@@ -10,7 +10,7 @@ The dataset [iris.data](https://github.com/quyenphanlyons/pands-project/blob/mai
 
 This dataset is one of the earliest datasets widely used in statistics and machine learning. 
 
-This is a small dataset that contains only 150 observations. Each observation in this dataset is an iris flower. The dataset consists of 50 individuals from each of the following three species: Iris Setosa, Iris Versicolour and Iris Virginica. The dataset has 5 columns: 4 features (quantitative variables) and 1 class label (nominal variable).
+This is a small dataset that contains only 150 observations. Each observation in this dataset is an iris flower. The dataset consists of 50 individuals from each of the following three species: Iris Setosa, Iris Versicolour and Iris Virginica. The dataset has 5 columns: 4 features (quantitative variables) and 1 class label - species (nominal variable).
 
 The 4 features are:
 1. sepal length (in cm) represents the length of an iris flower's sepal.
@@ -40,6 +40,3 @@ The Python analysis program is in [analysis.py](https://github.com/quyenphanlyon
 The sections of the program and their outputs are visualised in [notebook.ipynb](https://github.com/quyenphanlyons/pands-project/blob/main/notebook.ipynb).
 
 Descriptive statistics of the Iris dataset can be found in [Iris_stats_summary.txt](https://github.com/quyenphanlyons/pands-project/blob/main/Iris_stats_summary.txt)
-
-## Conclusion
-
